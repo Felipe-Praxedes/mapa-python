@@ -1,0 +1,11 @@
+Gustavo:
+[] Entrada de dados  | Obs: variavel cidade e lat/lon
+[] Converter posição para graus, segundo e minutos
+[] Mapa astral natal | Obs: variavel 2023, 3,
+15, 0, 00, "São Paulo", "Brazil"
+[]
+
+Felipe:
+[] Tradução do resultado
+[] Pegar todos os dados de planetas e casas
+[] Entrada de dados com range inicial e final
